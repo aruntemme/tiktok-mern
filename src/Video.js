@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import "./Video.css";
 import { useRef } from "react";
-import Videofooter from "./Videofooter";
+import VideoFooter from "./VideoFooter";
 
 function Video() {
   const [playing, setPlaying] = useState(false);
@@ -26,7 +26,7 @@ function Video() {
         src="/videos/vid.mp4"
         height="890"
       ></video>
-      <Videofooter />
+      <VideoFooter />
     </div>
   );
 }

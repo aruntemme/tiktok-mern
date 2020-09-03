@@ -2,7 +2,7 @@ html {
   scroll-snap-type: y mandatory;
 }
 .app {
-  height: 100wh;
+  height: 100vh;
   background-color: black;
   display: grid;
   place-items: center;

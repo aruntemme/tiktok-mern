@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 # This Branch contains Frontend of the project - Reactjs
 
-# Check 'backend' for Backend code
+# Check 'backend' branch for Backend code
 
 ## Available Scripts
 
